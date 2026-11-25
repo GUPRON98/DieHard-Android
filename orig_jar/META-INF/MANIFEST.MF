@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: [ANDREW-LVIV] / Gameloft SA
+MIDlet-Version: 1.0.1
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: A Good Day To Die Hard DEDOMIL.NET, /icon.png, GloftDIH5
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+MIDlet-Icon: /icon.png
+MIDlet-Name: A Good Day To Die Hard DEDOMIL.NET
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Delete-Confirm: More free games on andrew-lviv.net
+MIDlet-Info-URL: http://andrew-lviv.net
